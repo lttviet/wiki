@@ -1,7 +1,7 @@
 # Summary
 
 - [Introduction](./introduction.md)
-- [Todo](./todo.md)
+- [Notes](./notes.md)
 - [Programming](./programming/README.md)
 	- [Raspberry](./programming/raspberry.md)
 	- [Bash](./programming/bash.md)
