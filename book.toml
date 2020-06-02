@@ -1,0 +1,13 @@
+[book]
+title = "wiki"
+authors = ["Viet Le"]
+language = "en"
+multilingual = false
+src = "src"
+
+[build]
+build-dir = "doc"
+
+[output.html]
+default-theme = "navy"
+preferred-dark-theme = "navy"
