@@ -7,12 +7,19 @@
         
         <meta name="robots" content="noindex" />
         
+        
+
+
+        <!-- Custom HTML head -->
+        
+
 
         <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="theme-color" content="#ffffff" />
 
+        <link rel="icon" href="favicon.svg">
         <link rel="shortcut icon" href="favicon.png">
         <link rel="stylesheet" href="css/variables.css">
         <link rel="stylesheet" href="css/general.css">
@@ -21,8 +28,9 @@
 
         <!-- Fonts -->
         <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
-        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css">
-        <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro:500" rel="stylesheet" type="text/css">
+        
+        <link rel="stylesheet" href="fonts/fonts.css">
+        
 
         <!-- Highlight.js Stylesheets -->
         <link rel="stylesheet" href="highlight.css">
@@ -83,7 +91,7 @@
 
         <nav id="sidebar" class="sidebar" aria-label="Table of contents">
             <div class="sidebar-scrollbox">
-                <ol class="chapter"><li class="chapter-item expanded "><a href="introduction.html"><strong aria-hidden="true">1.</strong> Introduction</a></li><li class="chapter-item expanded "><a href="notes.html"><strong aria-hidden="true">2.</strong> Notes</a></li><li class="chapter-item expanded "><a href="programming/index.html"><strong aria-hidden="true">3.</strong> Programming</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="programming/raspberry.html"><strong aria-hidden="true">3.1.</strong> Raspberry</a></li><li class="chapter-item expanded "><a href="programming/bash.html"><strong aria-hidden="true">3.2.</strong> Bash</a></li></ol></li><li class="chapter-item expanded "><a href="server/index.html"><strong aria-hidden="true">4.</strong> Server</a></li><li class="chapter-item expanded "><a href="projects/index.html"><strong aria-hidden="true">5.</strong> Projects</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="projects/homepass.html"><strong aria-hidden="true">5.1.</strong> Homepass</a></li></ol></li><li class="chapter-item expanded "><a href="games/index.html"><strong aria-hidden="true">6.</strong> Games</a></li></ol>
+                <ol class="chapter"><li class="chapter-item expanded "><a href="introduction.html"><strong aria-hidden="true">1.</strong> Introduction</a></li><li class="chapter-item expanded "><a href="notes.html"><strong aria-hidden="true">2.</strong> Notes</a></li><li class="chapter-item expanded "><a href="programming/index.html"><strong aria-hidden="true">3.</strong> Programming</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="programming/raspberry.html"><strong aria-hidden="true">3.1.</strong> Raspberry</a></li><li class="chapter-item expanded "><a href="programming/bash.html"><strong aria-hidden="true">3.2.</strong> Bash</a></li></ol></li><li class="chapter-item expanded "><a href="server/index.html"><strong aria-hidden="true">4.</strong> Server</a></li><li class="chapter-item expanded "><a href="projects/index.html"><strong aria-hidden="true">5.</strong> Projects</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="projects/homepass.html"><strong aria-hidden="true">5.1.</strong> Homepass</a></li></ol></li><li class="chapter-item expanded "><a href="games/index.html"><strong aria-hidden="true">6.</strong> Games</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="games/playing.html"><strong aria-hidden="true">6.1.</strong> Playing</a></li><li class="chapter-item expanded "><a href="games/finished.html"><strong aria-hidden="true">6.2.</strong> Finished</a></li></ol></li><li class="chapter-item expanded "><a href="books.html"><strong aria-hidden="true">7.</strong> Books</a></li></ol>
             </div>
             <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
         </nav>
@@ -166,7 +174,6 @@
 <ol>
 <li>Update dotfiles.</li>
 <li>Update repo.</li>
-<li>Remove docs dir, push to gh-pages instead. Use github action?</li>
 </ol>
 <h2><a class="header" href="#tabnine" id="tabnine">TabNine</a></h2>
 <p>Tested on sublime text, high memory usage so turned off local usage.
@@ -447,14 +454,35 @@ service hostapd start
 <h1><a class="header" href="#games" id="games">Games</a></h1>
 <p>Gaming is my hobby to pass the time.</p>
 <p>Those days I mostly play <a href="https://en.wikipedia.org/wiki/Gacha_game">mobile gatcha games</a> instead of pc games.
-I usually purchase monthly packages so I'm not a f2p player.</p>
-<h2><a class="header" href="#im-playing" id="im-playing">I'm playing</a></h2>
+I usually purchase monthly packages so I'm not a f2p player.
+I used to balk at the idea of paying monthly subscription to MMOs, but now I do it without blinking for mobile games.</p>
+<h1><a class="header" href="#playing" id="playing">Playing</a></h1>
+<h2><a class="header" href="#a-hrefhttpsenwikipediaorgwikigirls27_frontlinegirls-frontlinea" id="a-hrefhttpsenwikipediaorgwikigirls27_frontlinegirls-frontlinea"><a href="https://en.wikipedia.org/wiki/Girls%27_Frontline">Girls' Frontline</a></a></h2>
+<p>Guns as anime girls. </p>
+<h2><a class="header" href="#a-hrefhttpsenwikipediaorgwikiarknightsarknightsa" id="a-hrefhttpsenwikipediaorgwikiarknightsarknightsa"><a href="https://en.wikipedia.org/wiki/Arknights">Arknights</a></a></h2>
+<p>Tower defense with anime girls (80% of the roster) and some males.</p>
+<h2><a class="header" href="#a-hrefhttpsstoresteampoweredcomapp1102190monster_trainmonster-traina" id="a-hrefhttpsstoresteampoweredcomapp1102190monster_trainmonster-traina"><a href="https://store.steampowered.com/app/1102190/Monster_Train/">Monster Train</a></a></h2>
+<p>I'm a big fan of <a href="https://store.steampowered.com/app/646570/Slay_the_Spire/">Slay the Spire</a> and the former game scratches the same itch. 
+It combines deck building with tower defense, which are pretty cool.</p>
+<h1><a class="header" href="#finished" id="finished">Finished</a></h1>
+<h2><a class="header" href="#a-hrefhttpsstoresteampoweredcomapp1113000persona_4_goldenpersona-4-goldena" id="a-hrefhttpsstoresteampoweredcomapp1113000persona_4_goldenpersona-4-goldena"><a href="https://store.steampowered.com/app/1113000/Persona_4_Golden/">Persona 4 Golden</a></a></h2>
+<p>I started playing Persona 4 back in 2008; I lost my save so never finished it. 
+As the game came to PC, I finally had the chance and motivation to restart and beat it.</p>
+<p>The gameplay is great, I'd describe it as traditional turn based JRPG combined with dating sim.
+IMO the story does overstay its welcome, the beginning feels too long and there are lot of downtimes in the middle.
+Moreover I prefer darker theme of Persona 3 to Persona 4.
+Persona 4 is still a great game though.</p>
+<p>I got the golden ending on 7/5/2020.
+I'm missing a few achievements; I am not a completionist so I don't feel like starting new game + any time soon.</p>
+<p>Thanks to the game, I became a longtime fan of <a href="https://en.wikipedia.org/wiki/Shin_Megami_Tensei">SMT</a> series and <a href="https://en.wikipedia.org/wiki/Atlus">Atlus</a>. I imported <a href="https://en.wikipedia.org/wiki/Demon%27s_Souls">Demon's Souls</a>, <a href="https://en.wikipedia.org/wiki/Shin_Megami_Tensei:_Strange_Journey">SMT: Strange Journey</a> and <a href="https://en.wikipedia.org/wiki/Shin_Megami_Tensei:_Devil_Survivor">SMT: Devil Survivor</a> to UK when I was in college. Funny enough, I also lost my save to Strange Journey; maybe one day I'll attempt to complete Strange Journey Redux.</p>
+<h1><a class="header" href="#books" id="books">Books</a></h1>
+<h2><a class="header" href="#im-reading" id="im-reading">I'm reading</a></h2>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Girls%27_Frontline">Girls' Frontline</a>
-: Guns as anime girls. </li>
-<li><a href="https://en.wikipedia.org/wiki/Arknights">Arknights</a>
-: Tower defense with anime girls (80% of the roster) and some males.</li>
-<li><a href="https://store.steampowered.com/app/1102190/Monster_Train/">Monster Train</a>: I'm a big fan of <a href="https://store.steampowered.com/app/646570/Slay_the_Spire/">Slay the Spire</a> and the former game scratches the same itch. It combines deck building with tower defense, which are pretty cool.</li>
+<li><a href="https://www.webnovel.com/book/7996858406002505/Reverend-Insanity">Reverend Insanity</a>: evil MC, cultivation story.</li>
+<li><a href="https://www.webnovel.com/book/11022733006234505/Lord-of-the-Mysteries">Lord of the Mysteries</a>: steampunk setting, cool story. The first 100 chapters are tedious, but it keeps getting better after that.</li>
+<li><a href="https://www.novelupdates.com/series/kumo-desu-ga-nani-ka/">Kumo</a>: Japanese reincarnation light novel. </li>
+<li><a href="https://www.novelupdates.com/series/tearmoon-empire-story/">Tearmoon Empire</a>: finished first book. Fun light-hearted story.</li>
+<li><a href="https://www.novelupdates.com/series/i-reincarnated-into-an-otome-game-as-a-villainess-with-only-destruction-flags/">Bakarina</a>: reading volume 3. It's not as good as the first 2 books.</li>
 </ul>
 
                     </main>
@@ -483,10 +511,10 @@ I usually purchase monthly packages so I'm not a f2p player.</p>
         
 
         
-        
+
         
         <script type="text/javascript">
-            window.playpen_copyable = true;
+            window.playground_copyable = true;
         </script>
         
 
