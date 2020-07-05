@@ -8,5 +8,7 @@
 - [Server](./server/README.md)
 - [Projects](./projects/README.md)
 	- [Homepass](./projects/homepass.md)
-- [Games](./games.md)
+- [Games](./games/README.md)
+	- [Playing](./games/playing.md)
+	- [Finished](./games/finished.md)
 - [Books](./books.md)
