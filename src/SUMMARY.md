@@ -5,6 +5,7 @@
 - [Programming](./programming/README.md)
 	- [Raspberry](./programming/raspberry.md)
 	- [Bash](./programming/bash.md)
+	- [Python](./programming/python.md)
 - [Server](./server/README.md)
 - [Projects](./projects/README.md)
 	- [Homepass](./projects/homepass.md)
@@ -12,3 +13,4 @@
 	- [Playing](./games/playing.md)
 	- [Finished](./games/finished.md)
 - [Books](./books.md)
+- [TV](./tv.md)
