@@ -3,11 +3,20 @@
 ## [Girls' Frontline](https://en.wikipedia.org/wiki/Girls%27_Frontline)
 
 Guns as anime girls. 
+
+### July 31 2020
+
+I finished the Isomer ranking map with 606k scores.
+It was good enough to get the exclusive fairy so I had no intention of retrying.
+
+It was a bad day for me mentally; I felt overwhelmed all day.
+I cried when I made a bunch of mistakes microing the game.
+I ate a whole box of ice cream for dinner.
+
+### SF capture
+
+It's coming to EN server; I really hope it isn't too much p2w.
+
 ## [Arknights](https://en.wikipedia.org/wiki/Arknights)
 
-Tower defense with anime girls (80% of the roster) and some males.
-
-## [Monster Train](https://store.steampowered.com/app/1102190/Monster_Train/)
-
-I'm a big fan of [Slay the Spire](https://store.steampowered.com/app/646570/Slay_the_Spire/) and the former game scratches the same itch. 
-It combines deck building with tower defense, which are pretty cool.
+Tower defense with anime girls and some males.
