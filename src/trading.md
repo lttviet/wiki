@@ -22,7 +22,7 @@ I got burnt playing naked options so I don't want to touch them for now.
 
 ## Plays
 
-**Beware**: (Survivor Bias)[https://en.wikipedia.org/wiki/Survivorship_bias] belows.
+**Beware**: [Survivor Bias](https://en.wikipedia.org/wiki/Survivorship_bias) belows.
 
 ### UPRO/TMF 55/45 Jan 1 2019 - present
 
@@ -44,3 +44,11 @@ They've sound arguments and data to back them up, at least to my ears anyways.
 August 4 2020: bought 100 shares at $24.74, sold 30C 8/21/20 for $2.10
 Target price: $30
 Plan: wait until earning report next week and decide what to do next, may hold for long term though.
+
+### PSTHU
+
+First time I've ever heard and invested into [SPAC](https://www.investopedia.com/terms/s/spac.asp)
+[Bill Ackman](https://en.wikipedia.org/wiki/Bill_Ackman) is behind this so it has a lot of hype going.
+
+July 2020: bought 234 shares at $21.68.
+Plan: pray for good news about the targeted mature unicorn.
