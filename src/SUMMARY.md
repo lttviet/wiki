@@ -14,3 +14,4 @@
 	- [Finished](./games/finished.md)
 - [Books](./books.md)
 - [TV](./tv.md)
+- [Trading](./trading.md)
