@@ -13,5 +13,5 @@
 	- [Playing](./games/playing.md)
 	- [Finished](./games/finished.md)
 - [Books](./books.md)
-- [TV](./tv.md)
+- [Watching](./watching.md)
 - [Trading](./trading.md)
