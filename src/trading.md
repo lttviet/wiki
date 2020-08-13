@@ -24,7 +24,7 @@ I got burnt playing naked options so I don't want to touch them for now.
 
 **Beware**: [Survivor Bias](https://en.wikipedia.org/wiki/Survivorship_bias) belows.
 
-### UPRO/TMF 55/45 Jan 1 2019 - present
+### UPRO/TMF 55/45 Jan 1 2020 - present
 
 About 90% of my account are on this.
 I found about this through the subreddit; it was originally posted at [bogleheads](https://www.bogleheads.org/forum/viewtopic.php?f=10&t=288192).
@@ -34,18 +34,21 @@ Luckily I didn't abandon the strategy and I also kept buying UPRO as it went dow
 I also did some re-balancing during that time, sold TMF and bought UPRO.
 
 Since then, it has steadily recovered. 
-As of today August 2020, it's about 21% up.
+As of today August 2020, it's about 15% up.
 
 ### PRPL
 
 I saw the posts about the [mattress company](https://purple.com/) on subreddit at the end of July 2020.
-They've sound arguments and data to back them up, at least to my ears anyways.
+They had sound arguments and data to back them up, at least to my ears anyways.
+It's down 11%.
 
-August 4 2020: bought 100 shares at $24.74, sold 30C 8/21/20 for $2.10
+<!--
+August 4 2020: bought 100 shares at $24.74, sold 30C 8/21 for $2.10
+August ? 2020: close 30C 8/21 for $1., open 25C 8/21 for $1.
+August ? 2020: close 25C 8/21 for $2., open 30C 9/18 for $1.5
+-->
 
-Target price: $30
-
-Plan: wait until earning report next week and decide what to do next, may hold for long term though.
+Plan: sell covered calls until break even. The company is decent though.
 
 ### PSTHU
 
