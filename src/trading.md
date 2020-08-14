@@ -40,15 +40,16 @@ As of today August 2020, it's about 15% up.
 
 I saw the posts about the [mattress company](https://purple.com/) on subreddit at the end of July 2020.
 They had sound arguments and data to back them up, at least to my ears anyways.
-It's down 11%.
+It was down 11% after earning; I'm at break even point after taking into account the profits from covered calls.
+
+Plan: roll down covered call to 25C 9/18. Let the shares be called if the price recovers.
 
 <!--
-August 4 2020: bought 100 shares at $24.74, sold 30C 8/21 for $2.10
-August ? 2020: close 30C 8/21 for $1., open 25C 8/21 for $1.
-August ? 2020: close 25C 8/21 for $2., open 30C 9/18 for $1.5
+August 4 2020: bought 100 shares at $24.74, sold 30C 8/21 for $2.1
+August 11 2020: close 30C 8/21 for $0.6, open 25C 8/21 for $1.65
+August 13 2020: close 25C 8/21 for $2.05, open 30C 9/18 for $1.55
+August 14 2020: close 30C 9/18 for $0.65, open 25C 8/21 for $1.5
 -->
-
-Plan: sell covered calls until break even. The company is decent though.
 
 ### PSTHU
 
