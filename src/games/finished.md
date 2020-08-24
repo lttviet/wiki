@@ -21,3 +21,12 @@ I'm a big fan of [Slay the Spire](https://store.steampowered.com/app/646570/Slay
 It combines deck building with tower defense, which are pretty cool.
 
 I got to covenant 25 so I'm taking a break from the game.
+
+## [Horizon Zero Dawn](https://store.steampowered.com/app/1151640/Horizon_Zero_Dawn_Complete_Edition/)
+
+The story is ok; I zoned out a lot during the cut screens.
+I skipped a bunch of side quests as the game started to become a chore.
+
+The gameplay is pretty fun, rolling around and shooting weak points on machines.
+At the beginning stealth was important as my weapons were limited.
+By the end of the game, I resolved to use explosives for everything.
