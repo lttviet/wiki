@@ -1,6 +1,6 @@
 # Python
 
-## [Negative number](https://wiki.python.org/moin/BitwiseOperators)
+## [Bitwise](https://wiki.python.org/moin/BitwiseOperators)
 
 Positive numbers have leading 0, negative numbers have leading 1.
 
