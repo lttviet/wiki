@@ -20,6 +20,12 @@ I followed [/r/wallstreetbets](https://old.reddit.com/r/wallstreetbets/) and it 
 Sometimes I win, sometimes I lose; at least my account is still positive.
 I got burnt playing naked options so I don't want to touch them for now.
 
+## Lessons
+
+- Follow [The wheel](https://old.reddit.com/r/options/comments/a36k4j/the_wheel_aka_triple_income_strategy_explained/) strategy loosely. Roll for credit (never debit) or let the shares be called. If opportunity cost is great, let shares be called and use the funds for other plays. Rolling means closing a position and opening a new one; they are independent plays.
+- There'll also be ups and downs. As long as I manage my risks properly, I hopefully can live to fight another day.
+- It isn't worth it to do this full time; the profit is below minimum wage.
+
 ## Plays
 
 **Beware**: [Survivor Bias](https://en.wikipedia.org/wiki/Survivorship_bias) belows.
@@ -27,52 +33,61 @@ I got burnt playing naked options so I don't want to touch them for now.
 ### UPRO/TMF 55/45
 
 I found about this through the subreddit; it was originally posted at [bogleheads](https://www.bogleheads.org/forum/viewtopic.php?f=10&t=288192).
-I invested most of my fun account into this play at the beginning of 2020.
+I think interest rate may no longer goes down but TMF still acts as a hedge to UPRO.
+Another possibility is that rate may go negative.
 
+I invested most of my fun account into this play at the beginning of 2020.
 In March 2020, it was down by 30%. 
 Luckily I didn't abandon the strategy and I also kept buying UPRO as it went down.
 I also did some re-balancing during that time, sold TMF and bought UPRO.
-
 Since then, it has steadily recovered. 
-As of September 2020, it was about 15% up.
+As of November 2020, it was about 23% up.
 
 ### PRPL
 
 I saw the posts about the [mattress company](https://purple.com/) on subreddit at the end of July 2020.
-They had sound arguments and data to back them up, at least to my ears anyways.
-It was down more than 30% after earning but had recovered since. 
+They had sound arguments and data to back them up.
 
-- August 2020: bought 100 at $24.72, sold covered calls.
+I made multiple mistakes trading calls.
+I sold calls at low strike for more premiums but I wasn't willing to let the shares go.
+It cost me half of the profit to buy back the calls.
 
-Profit: 10.89% (269.14/2,472) from calls.
+Positions: +100 at $24.72, -1 30C 12/28/2020
 
-Plan: I shorted covered call 25C 10/16 and I plan to let the shares be called.
+Profit: 7.01% (173.21/2472) from selling covered calls.
 
-### PSTH + PSTHWS
+Plan: PT is about $30.00, wait.
+
+### SPACS
+
+#### PSTH
 
 First time I've ever heard and invested into [SPAC](https://www.investopedia.com/terms/s/spac.asp).
 [Bill Ackman](https://en.wikipedia.org/wiki/Bill_Ackman) is behind this so it has a lot of hype going.
 
-- July 2020: bought 189 at $21.82.
-- September 2020: did some swing trades when price was round $22, sold all warranties.
+Position: +63 at $23.25.
 
-Profit: 3.85% (174.09/4520.88)
+Profit: 8.3% (375.33/4520.88) after selling all warranties and reduce position size by a half.
 
-Plan: pray for good news about the targeted mature unicorn.
+Plan: wait.
 
-### SNPRU
+#### SNPRU
 
 I've high hope of it as the same management team of SHLL is behind this SPAC.
 
-September 2020: bought 100 at $10.54.
+Position: +224 at $10.65
 
-Plan: may buy more
+Profit: 1.47% (34.97/2385.6)
+
+Plan: wait.
 
 ### FB
 
 I want to buy and hold FAANG shares.
 FB seems like the cheapest out of them.
 
-September 2020: bought 10 at $281.27.
+Position: +10 at $280.61.
 
-Plan: long term hold for now.
+Profit: 2.83% (79.72/2812.7) from swing trade to reduce average cost.
+
+Plan: long term hold.

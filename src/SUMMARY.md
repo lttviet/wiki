@@ -7,6 +7,7 @@
 	- [Bash](./programming/bash.md)
 	- [Python](./programming/python.md)
     - [React](./programming/react.md)
+    - [Java](./programming/java.md)
 - [Server](./server/README.md)
 - [Projects](./projects/README.md)
 	- [Homepass](./projects/homepass.md)
