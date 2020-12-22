@@ -13,10 +13,18 @@ It was a bad day for me mentally; I felt overwhelmed all day.
 I cried when I made a bunch of mistakes microing the game.
 I ate a whole box of ice cream for dinner.
 
-### SF capture
+### December 21 2020
 
-It's coming to EN server; I really hope it isn't too much p2w.
+I procrastinated until the last day to do the Shattered Connexion ranking map.
+I got 631k, which hopefully is enough to get into top 30%.
+
+![Ranking score](https://i.imgur.com/qdnFhMy.jpg)
 
 ## [Arknights](https://en.wikipedia.org/wiki/Arknights)
 
 Tower defense with anime girls and some males.
+
+## [Genshin Impact](https://en.wikipedia.org/wiki/Genshin_Impact)
+
+My account rank is 51. 
+There's not much to do at endgame; I usually spend at most 1 hour everyday for daily quests.
