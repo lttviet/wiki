@@ -41,7 +41,7 @@ In March 2020, it was down by 30%.
 Luckily I didn't abandon the strategy and I also kept buying UPRO as it went down.
 I also did some re-balancing during that time, sold TMF and bought UPRO.
 Since then, it has steadily recovered. 
-As of November 2020, it was about 23% up.
+As of December 2020, it was about 20% up.
 
 ### PRPL
 
@@ -52,32 +52,39 @@ I made multiple mistakes trading calls.
 I sold calls at low strike for more premiums but I wasn't willing to let the shares go.
 It cost me half of the profit to buy back the calls.
 
-Positions: +100 at $24.72, -1 30C 12/28/2020
+Positions: +100 at $24.72, -1 30C 1/15/2021
 
-Profit: 7.01% (173.21/2472) from selling covered calls.
+Profit: 7.76% (191.9/2472) from selling covered calls.
 
 Plan: PT is about $30.00, wait.
 
-### SPACS
-
-#### PSTH
+### PSTH
 
 First time I've ever heard and invested into [SPAC](https://www.investopedia.com/terms/s/spac.asp).
 [Bill Ackman](https://en.wikipedia.org/wiki/Bill_Ackman) is behind this so it has a lot of hype going.
 
 Position: +63 at $23.25.
 
-Profit: 8.3% (375.33/4520.88) after selling all warranties and reduce position size by a half.
+Profit: 8.3% (375.33/4520.88) after selling all warranties and reduce position size.
 
 Plan: wait.
 
-#### SNPRU
+### Speculative SPACs
 
-I've high hope of it as the same management team of SHLL is behind this SPAC.
+I usually buy near NAV (at most 10% above NAV) and start taking profit after 10% raise.
+I don't plan to hold after merger as [historical data](https://corpgov.law.harvard.edu/2020/11/19/a-sober-look-at-spacs/) suggest most companies' stocks fall after ticket change.
 
-Position: +224 at $10.65
+#### Pre-target
 
-Profit: 1.47% (34.97/2385.6)
+Positions: +200 SNPR at $10.21, +115 QELL at $10.31, +100 CRHC at $9.95, +100 FUSE at $9.94.
+
+Profit: 1.89% (45.20/2385.6) SNPR, 13.41% (284.53/2121) QELL.
+
+Plan: buy more QELL if it goes down.
+
+#### Target hype
+
+Positions: +100 THCA at $10.63, +100 THBR at 10.72, +100 VSPR at 10.47.
 
 Plan: wait.
 
@@ -91,3 +98,11 @@ Position: +10 at $280.61.
 Profit: 2.83% (79.72/2812.7) from swing trade to reduce average cost.
 
 Plan: long term hold.
+
+## Done
+
+Profit: 
+
+- 7.17% (146.62/2,043.00) GIX.
+- 14.44% (153.05/1060) THCB.
+- 20.06% (212.61/1060) APXT.
