@@ -18,7 +18,9 @@ I ate a whole box of ice cream for dinner.
 I procrastinated until the last day to do the Shattered Connexion ranking map.
 I got 631k, which hopefully is enough to get into top 30%.
 
+<!--
 ![Ranking score](https://i.imgur.com/qdnFhMy.jpg)
+-->
 
 ## [Arknights](https://en.wikipedia.org/wiki/Arknights)
 
