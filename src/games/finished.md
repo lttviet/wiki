@@ -30,3 +30,10 @@ I skipped a bunch of side quests as the game started to become a chore.
 The gameplay is pretty fun, rolling around and shooting weak points on machines.
 At the beginning stealth was important as my weapons were limited.
 By the end of the game, I resolved to use explosives for everything.
+
+## [Sakuna: Of Rice and Ruin](https://store.steampowered.com/app/1356670/Sakuna_Of_Rice_and_Ruin/)
+
+It's a pretty comfy game which is divided in 2 parts (farming and dungeoning). The controls for farming are clunky and the camera caused me nausea. Fighting is quite fun once I got into rhythm.
+
+As usual, I didn't play any end game contents so I can't comment on that.
+ 
