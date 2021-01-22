@@ -41,7 +41,7 @@ In March 2020, it was down by 30%.
 Luckily I didn't abandon the strategy and I also kept buying UPRO as it went down.
 I also did some re-balancing during that time, sold TMF and bought UPRO.
 Since then, it has steadily recovered. 
-As of December 2020, it was about 20% up.
+As of January 2021, it was about 20% up.
 
 ### PRPL
 
@@ -63,6 +63,9 @@ Plan: wait.
 
 I usually buy near NAV (at most 10% above NAV) and start taking profit after 10% raise.
 I don't plan to hold after merger as [historical data](https://corpgov.law.harvard.edu/2020/11/19/a-sober-look-at-spacs/) suggest most companies' stocks fall after ticket change.
+
+I'm in the process of moving my money into SPCX, an actively managed ETF with similar strategy as mine.
+The expense ratio is high (0.95%), but if the ETF has access to buy SPACs at IPO price then it's probably worth it.
 
 ### FB
 
