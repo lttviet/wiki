@@ -16,3 +16,4 @@
 - [Books](./books.md)
 - [Watching](./watching.md)
 - [Trading](./trading.md)
+- [Mind](./mind.md)
