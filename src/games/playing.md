@@ -16,11 +16,7 @@ I ate a whole box of ice cream for dinner.
 ### December 21 2020
 
 I procrastinated until the last day to do the Shattered Connexion ranking map.
-I got 631k, which hopefully is enough to get into top 30%.
-
-<!--
-![Ranking score](https://i.imgur.com/qdnFhMy.jpg)
--->
+I got 631k, which was enough to get into top 30% for the beach fairy.
 
 ## [Arknights](https://en.wikipedia.org/wiki/Arknights)
 
@@ -28,5 +24,13 @@ Tower defense with anime girls and some males.
 
 ## [Genshin Impact](https://en.wikipedia.org/wiki/Genshin_Impact)
 
-My account rank is 51. 
+My account rank is 54. 
 There's not much to do at endgame; I usually spend at most 1 hour everyday for daily quests.
+
+Events and new stories come at steady pace so the game still keeps me entertained.
+
+## [Priconne](https://en.wikipedia.org/wiki/Princess_Connect!_Re:Dive)
+
+This is just an auto-battle game with high production quality.
+I'm playing it casually and I don't expect to spend any money.
+I rerolled for Makoto but stopped when I got 2 3* instead.
