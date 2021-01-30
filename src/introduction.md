@@ -1,6 +1,7 @@
 # Introduction
 
-This's my personal wiki (brain dump), detailing almost everything I know.
+My mind is a collection of unorganized thoughts, maybe writing them down will bring some orders to chaos.
+Along the way, I've been learning a little bit more about myself.
 
 ## Tools
 
