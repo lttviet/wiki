@@ -80,7 +80,7 @@ Plan: long term hold.
 
 There're so many things behind the screen I didn't know.
 
-I watched the [interview](https://www.youtube.com/watch?v=4RS4JIEVyXM) about the increase in collateral for GME.
+I watched an [interview](https://www.youtube.com/watch?v=4RS4JIEVyXM) about the increase in collateral for GME.
 On Thursday 1/28/2021, DTCC [raised rate significantly](https://www.washingtonpost.com/business/whats-the-dtcc-and-how-did-it-stop-gamestop-mania/2021/01/29/b23744bc-6257-11eb-a177-7765f29a9524_story.html); many brokers including Robinhood halted purchases of shares to protect themselves from liquidity problem.
 Robinhood had to [raise money from investors](https://www.nytimes.com/2021/01/29/technology/robinhood-fundraising.html) to resume limited trading on Friday.
 Their [blog post](https://blog.robinhood.com/news/2021/1/29/what-happened-this-week) went into more details about that.
