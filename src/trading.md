@@ -16,10 +16,6 @@ I also only allocate a few percentages of my portfolio for every risky play.
 So a single loss won't wipe my entire account.
 On the flip side, I'm not going to get rich any time soon.
 
-I followed [/r/wallstreetbets](https://old.reddit.com/r/wallstreetbets/) and it has been a wild ride.
-Sometimes I win, sometimes I lose; at least my account is still positive.
-I got burnt playing naked options so I don't want to touch them for now.
-
 ## Lessons
 
 - Follow [The wheel](https://old.reddit.com/r/options/comments/a36k4j/the_wheel_aka_triple_income_strategy_explained/) strategy loosely. Roll for credit (never debit) or let the shares be called. If opportunity cost is great, let shares be called and use the funds for other plays. Rolling means closing a position and opening a new one; they are independent plays.
@@ -45,7 +41,7 @@ As of January 2021, it was about 20% up.
 
 ### PRPL
 
-I saw the posts about the [mattress company](https://purple.com/) on subreddit at the end of July 2020.
+I saw the posts about the [mattress company](https://purple.com/) on reddit at the end of July 2020.
 They had sound arguments and data to back them up.
 
 I made multiple mistakes trading calls.
@@ -78,23 +74,10 @@ Plan: long term hold.
 
 ### Robinhood
 
-There're so many things behind the screen I didn't know.
-
 I watched an [interview](https://www.youtube.com/watch?v=4RS4JIEVyXM) about the increase in collateral for GME.
 On Thursday 1/28/2021, DTCC [raised rate significantly](https://www.washingtonpost.com/business/whats-the-dtcc-and-how-did-it-stop-gamestop-mania/2021/01/29/b23744bc-6257-11eb-a177-7765f29a9524_story.html); many brokers including Robinhood halted purchases of shares to protect themselves from liquidity problem.
 Robinhood had to [raise money from investors](https://www.nytimes.com/2021/01/29/technology/robinhood-fundraising.html) to resume limited trading on Friday.
 Their [blog post](https://blog.robinhood.com/news/2021/1/29/what-happened-this-week) went into more details about that.
 
 Their PR was bad, making their customers believe that they conspired with Citadel to protect hedge funds.
-I don't know if Robinhood can ever regain investors' trust.
-
-I've an account with them, for now I'll stay put because it can take days to transfer to another broker.
-
-### WSB
-
-I own some NOK shares which isn't GME so I don't have skin in the game.
-I hope everyone there invest/gamble responsibly.
-
-In just over a week, the GME incidence has become political, personal and emotional for many people.
-I feel out of place there; it seems the subreddit has outgrown me.
-It was fun while it lasted, so long and thanks for all the fish.
+But I think they'll survive and thrive despite that.
