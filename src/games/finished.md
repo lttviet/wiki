@@ -33,7 +33,19 @@ By the end of the game, I resolved to use explosives for everything.
 
 ## [Sakuna: Of Rice and Ruin](https://store.steampowered.com/app/1356670/Sakuna_Of_Rice_and_Ruin/)
 
-It's a pretty comfy game which is divided in 2 parts (farming and dungeoning). The controls for farming are clunky and the camera caused me nausea. Fighting is quite fun once I got into rhythm.
+It's a pretty comfy game which is divided in 2 parts (farming and dungeoning). 
+The controls for farming are clunky and the camera caused me nausea. 
+Fighting is quite fun once I got into rhythm.
 
 As usual, I didn't play any end game contents so I can't comment on that.
  
+## [Skyrim](https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/)
+
+I finally completed Skyrim after restarting multiple times over the last 5 years. 
+I completed the main quests, DLCs and guilds.
+There are still some quests left but I'm genuinely happy to put the game down at this point.
+It does feel like closing a chapter in my life.
+
+Playing the game in 2021, it feels outdated with floaty combat and multiple crashes and game stopping bugs.
+At some point, the game seems like a long to do list.
+But I did have a lot of fun role playing a mage, an assassin, dragonborn, a vampire, a werewolf and a thief in one single playthrough.
