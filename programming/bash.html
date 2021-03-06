@@ -167,11 +167,11 @@
 
                 <div id="content" class="content">
                     <main>
-                        <h1><a class="header" href="#bash" id="bash">Bash</a></h1>
-<h2><a class="header" href="#special-characters-in-file-names" id="special-characters-in-file-names">Special characters in file names</a></h2>
+                        <h1 id="bash"><a class="header" href="#bash">Bash</a></h1>
+<h2 id="special-characters-in-file-names"><a class="header" href="#special-characters-in-file-names">Special characters in file names</a></h2>
 <p><code>-</code> is recognized as stdin, so use <code>./-</code> for checking filenames beginning with <code>-</code>.</p>
 <p>Use <code>&quot;hello world&quot;</code> when names contain spaces.</p>
-<h2><a class="header" href="#io-redirection" id="io-redirection">IO redirection</a></h2>
+<h2 id="io-redirection"><a class="header" href="#io-redirection">IO redirection</a></h2>
 <p><strong>Note</strong>: Basic file descriptor (fd) for shell's operation are 0 for STDIN, 1 for STDOUT, 2 for STDERR.</p>
 <p>I used this code for <a href="https://overthewire.org/wargames/bandit/bandit25.html">OverTheWire Bandit 25</a>.</p>
 <pre><code class="language-bash">#!/bin/bash
@@ -199,14 +199,14 @@ done
 # Reset fd3 to normal
 exec 3&gt;&amp;-
 </code></pre>
-<h1><a class="header" href="#variables" id="variables">Variables</a></h1>
+<h1 id="variables"><a class="header" href="#variables">Variables</a></h1>
 <p>No spaces between <code>=</code>, ie. <code>x=23</code>.
 String interpolation uses <code>${}</code>.</p>
 <pre><code class="language-bash">x=&quot;hello&quot;
 y=&quot;world&quot;
 z=&quot;${x} ${y}&quot;
 </code></pre>
-<h1><a class="header" href="#netcat" id="netcat">netcat</a></h1>
+<h1 id="netcat"><a class="header" href="#netcat">netcat</a></h1>
 <p>Use <code>nc</code> to create a server/client to send tcp.</p>
 <pre><code class="language-bash"># Server
 nc -l 1234

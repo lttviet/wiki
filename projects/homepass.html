@@ -167,12 +167,12 @@
 
                 <div id="content" class="content">
                     <main>
-                        <h1><a class="header" href="#homepass" id="homepass">Homepass</a></h1>
-<h2><a class="header" href="#streetpass" id="streetpass">StreetPass</a></h2>
+                        <h1 id="homepass"><a class="header" href="#homepass">Homepass</a></h1>
+<h2 id="streetpass"><a class="header" href="#streetpass">StreetPass</a></h2>
 <p>3DS has a built-in feature <a href="http://www.nintendo.com/3ds/built-in-software/streetpass">StreetPass</a> which lets nearby users to exchange data from games and applications.
 This is great if you live in a big city where there are a lot of 3DS devices.
 However, if you live in a small town, you would be lucky to just get a handful of streetpasses monthly.</p>
-<h2><a class="header" href="#streetpass-relay" id="streetpass-relay">StreetPass Relay</a></h2>
+<h2 id="streetpass-relay"><a class="header" href="#streetpass-relay">StreetPass Relay</a></h2>
 <p>Due to that, Nintendo introduced another feature called <a href="http://en-americas-support.nintendo.com/app/answers/detail/a_id/709/%7E/streetpass-relay-overview">StreetPass Relay</a>.
 Every 3DS device has a whitelist of public wifi AP which it can automatically connect to.
 If connected, some data will be sent and stored on Nintendo server.
@@ -187,7 +187,7 @@ You only need a wifi dongle <code>wlan0</code> which support mac spoof and a wir
 What I have is 2 wifi dongles, <code>wlan0</code> and <code>wlan1</code>.
 The idea is still the same, but instead of <code>eth0</code> bridge to <code>wlan0</code>, I have <code>wlan1</code> connected to the internet and <code>wlan0</code> as wifi AP.
 All the traffic are forwarded to/from <code>wlan0</code> to <code>wlan1</code>.</p>
-<h2><a class="header" href="#setup" id="setup">Setup</a></h2>
+<h2 id="setup"><a class="header" href="#setup">Setup</a></h2>
 <p>I used <a href="https://www.raspberrypi.org/downloads/raspbian/">Raspbian Jessie Lite</a> image.
 I don't have external keyboard or monitor so desktop on Raspberry Pi is unnecessary.
 Installed the image on the SD card by either dd or <a href="https://etcher.io/">Etcher</a>, then added your wifi network to <code>/etc/wpa_supplicant/wpa_supplicant.conf</code>.<sup class="footnote-reference"><a href="#2">2</a></sup></p>
@@ -202,7 +202,7 @@ network={
 sudo apt -y install hostapd dnsmasq haveged iptable-persistent sqlite3
 </code></pre>
 <p>I used this wonderful <a href="https://help.ubuntu.com/community/WifiDocs/WirelessAccessPoint#Configuring_networking">guide</a> to setup forwarding.</p>
-<h3><a class="header" href="#interfaces" id="interfaces">Interfaces</a></h3>
+<h3 id="interfaces"><a class="header" href="#interfaces">Interfaces</a></h3>
 <p>Set <code>wlan0</code> to a static ip address <code>10.0.0.1</code>.</p>
 <pre><code class="language-bash">#/etc/network/interfaces
 auto lo
@@ -225,7 +225,7 @@ iface wlan1 inet manual
 <pre><code class="language-bash">#/ect/dhcpcd.conf
 denyinterfaces wlan0
 </code></pre>
-<h3><a class="header" href="#hostapd" id="hostapd">Hostapd</a></h3>
+<h3 id="hostapd"><a class="header" href="#hostapd">Hostapd</a></h3>
 <p>Hostapd is an user daemon to start up AP.
 In <code>/etc/default/hostapd</code>, uncomment or add the line <code>DAEMON_CONF=/etc/hostapd/hostapd.conf</code>.</p>
 <pre><code class="language-bash">#/etc/hostapd/hostapd.conf
@@ -260,7 +260,7 @@ interface=wlan0
 except-interface=wlan1
 dhcp-range=10.0.0.2,10.0.0.255,12h
 </code></pre>
-<h3><a class="header" href="#port-forwarding" id="port-forwarding">Port forwarding</a></h3>
+<h3 id="port-forwarding"><a class="header" href="#port-forwarding">Port forwarding</a></h3>
 <p>In <code>/etc/sysctl.conf</code>, uncomment <code>net.ipv4.ip_forward=1</code>.</p>
 <pre><code class="language-bash">sudo iptables -t nat -A POSTROUTING -o wlan1 -j MASQUERADE
 sudo iptables -A FORWARD -m conntrack --ctstate RELATED,ESTABLISHED -j ACCEPT
@@ -269,7 +269,7 @@ sudo sh -c 'iptables-save &gt; /etc/iptables/rules.v4'
 </code></pre>
 <p>Start services <code>sudo service hostapd start &amp;&amp; sudo service dnsmasq start</code>.
 Reboot Raspberry Pi and test if <code>attwifi</code> can be connected to the internet.</p>
-<h3><a class="header" href="#systemd-service-and-timer" id="systemd-service-and-timer">systemd service and timer</a></h3>
+<h3 id="systemd-service-and-timer"><a class="header" href="#systemd-service-and-timer">systemd service and timer</a></h3>
 <p>I use systemd to run my <code>homepass.sh</code> at boot time and the script will rerun every 5 minutes to change <code>wlan0</code> to new SSID and MAC.</p>
 <pre><code class="language-bash">#/etc/systemd/system/homepass.service
 [Unit]
@@ -300,7 +300,7 @@ systemctl start homepass.timer
 <p>A nice feature of using systemd to run the script is we can access the logging easily for debugging</p>
 <pre><code class="language-bash">journalctl -u homepass
 </code></pre>
-<h3><a class="header" href="#homepasssh" id="homepasssh">homepass.sh</a></h3>
+<h3 id="homepasssh"><a class="header" href="#homepasssh">homepass.sh</a></h3>
 <p>This script was modified from orginal script by Semperverus.
 You can check out his <a href="https://docs.google.com/document/d/1EvmIwTIjPva5MHSFEIN0qsHtRmdRRiX3WNHu_ThxnOs/edit?pref=2&amp;pli=1#">guide</a> for more details about HomePass.
 I took the idea of using sqlite3 to store MAC and SSID in a database from danielhoherd's <a href="https://github.com/danielhoherd/homepass/blob/master/RaspberryPi/homepass.sh">script</a>.</p>
@@ -368,7 +368,7 @@ echo &quot;===========================================&quot;
 
 service hostapd start
 </code></pre>
-<h2><a class="header" href="#all-files" id="all-files">All files</a></h2>
+<h2 id="all-files"><a class="header" href="#all-files">All files</a></h2>
 <p>You can find all my files at my github <a href="https://github.com/lttviet/homepass">repo</a>.</p>
 <div class="footnote-definition" id="1"><sup class="footnote-definition-label">1</sup>
 <p><a href="https://gbatemp.net/threads/how-to-have-a-homemade-streetpass-relay.352645/">https://gbatemp.net/threads/how-to-have-a-homemade-streetpass-relay.352645/</a></p>
