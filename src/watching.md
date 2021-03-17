@@ -16,3 +16,17 @@ I heard of them a lot around 2008 during the financial crisis.
 
 Personally I deliberately and subconsciously choose to be ignorant on many topics.
 Maybe one day I'll educate myself on them.
+
+### [Aggretsuko](https://en.wikipedia.org/wiki/Aggretsuko)
+
+I binge watched all 3 seasons in 2 days.
+The first 2 seasons are great but the last one left me confused.
+
+Every character is flawed and relatable.
+They all did the best that they could even if they were bad decisions.
+I understand their motives but that certainly doesn't make me like them any more, which isn't a bad thing in itself.
+
+The season 3 finale kinda feels like reverting things back to the original status quo.
+But the cat is already out of the bag so it'll never be the same again.
+Maybe to move forward, you need to step back and think.
+The truth is you can never go back to square 1, time passes, things change.
