@@ -1,16 +1,16 @@
 # Finished
 
-## [Persona 4 Golden](https://store.steampowered.com/app/1113000/Persona_4_Golden/)
+## 7/5/2020 - [Persona 4 Golden](https://store.steampowered.com/app/1113000/Persona_4_Golden/)
 
-I started playing Persona 4 back in 2008; I lost my save so never finished it. 
-As the game came to PC, I finally had the chance and motivation to restart and beat it.
+I started playing Persona 4 back in 2008, but I lost my save so never finished it. 
+As the game came to PC, I decided to give it another try.
 
 The gameplay is great, I'd describe it as traditional turn based JRPG combined with dating sim.
 IMO the story does overstay its welcome, the beginning feels too long and there are lot of downtimes in the middle.
 Moreover I prefer darker theme of Persona 3 to Persona 4.
 Persona 4 is still a great game though.
 
-I got the golden ending on 7/5/2020.
+I got the golden ending.
 I'm missing a few achievements; I am not a completionist so I don't feel like starting new game + any time soon.
 
 Thanks to the game, I became a longtime fan of [SMT](https://en.wikipedia.org/wiki/Shin_Megami_Tensei) series and [Atlus](https://en.wikipedia.org/wiki/Atlus). I imported [Demon's Souls](https://en.wikipedia.org/wiki/Demon%27s_Souls), [SMT: Strange Journey](https://en.wikipedia.org/wiki/Shin_Megami_Tensei:_Strange_Journey) and [SMT: Devil Survivor](https://en.wikipedia.org/wiki/Shin_Megami_Tensei:_Devil_Survivor) to UK when I was in college. Funny enough, I also lost my save to Strange Journey; maybe one day I'll attempt to complete Strange Journey Redux.
@@ -49,3 +49,15 @@ It does feel like closing a chapter in my life.
 Playing the game in 2021, it feels outdated with floaty combat and multiple crashes and game stopping bugs.
 At some point, the game seems like a long to do list.
 But I did have a lot of fun role playing a mage, an assassin, dragonborn, a vampire, a werewolf and a thief in one single playthrough.
+
+## 4/12/2021 - [Nioh 2](https://store.steampowered.com/app/1325200/Nioh_2__The_Complete_Edition/)
+
+It took me a couple of restarts before I finally settled on dual swords as my main weapons.
+I usually stay on high stance, using Cherry Blossom and Windstorm skills.
+Sometimes I switched to mid stance and used God of Wind kick to deplete ki.
+
+The beginning of the game is a bit rough but I got a lot better as I keep playing.
+The few final bosses did feel easy; I'm not entirely sure if it was because of good equipments or my skills.
+
+I completed the first difficulty and haven't started dlc or end game yet.
+I think I'll slowly tacking those modes but for now it's considered finished to me.

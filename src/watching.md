@@ -30,3 +30,7 @@ The season 3 finale kinda feels like reverting things back to the original statu
 But the cat is already out of the bag so it'll never be the same again.
 Maybe to move forward, you need to step back and think.
 The truth is you can never go back to square 1, time passes, things change.
+
+### Godzilla 2014
+
+It's ok. The monster fight is at night and the screen is too dark for me to see.

@@ -63,13 +63,6 @@ I don't plan to hold after merger as [historical data](https://corpgov.law.harva
 I'm in the process of moving my money into SPCX, an actively managed ETF with similar strategy as mine.
 The expense ratio is high (0.95%), but if the ETF has access to buy SPACs at IPO price then it's probably worth it.
 
-### FB
-
-I want to buy and hold FAANG shares.
-FB seems like the cheapest out of them.
-
-Plan: long term hold.
-
 ## Random thoughts
 
 ### Robinhood
@@ -81,3 +74,22 @@ Their [blog post](https://blog.robinhood.com/news/2021/1/29/what-happened-this-w
 
 Their PR was bad, making their customers believe that they conspired with Citadel to protect hedge funds.
 But I think they'll survive and thrive despite that.
+
+## Retirement
+
+My portfolio allocation is currently 50% SPY + VTI, 20% VEU, 20% TLT + BND and 10% cash + fun plays.
+
+During March 2020, I sold a bunch of VTI and bought SPY to take advantage of [tax-loss harvesting](https://www.bogleheads.org/wiki/Tax_loss_harvesting).
+At the time, I didn't know about about SCHB or ITOT and the performance difference between total market index and S&P 500 is small so I decided to buy SPY.
+I also considered VOO but I wanted to sell covered call so SPY was more liquid.
+In the end, I didn't sell any call against SPY.
+
+Hopefully at some point in the future, I can sell SPY and buy back into VTI to simplify my allocation.
+
+Similarly I was holding VXUS and moved to VEU.
+Since VXUS has small cap companies, I also want to move back to it.
+
+As for bonds, I think I was too conservative so I plan to sell TLT and reduce my overall holdings.
+Holding BND only is good enough for me; TLT is a little too volatile and it has been going down lately due to rising yield.
+
+My planned portfolio is 55% VTI, 25% VXUS, 15% BND, 5% cash + fun play.
