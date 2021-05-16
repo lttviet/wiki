@@ -142,13 +142,15 @@
                             <i id="git-repository-button" class="fa fa-github"></i>
                         </a>
                         
+                        
+
                     </div>
                 </div>
 
                 
                 <div id="search-wrapper" class="hidden">
                     <form id="searchbar-outer" class="searchbar-outer">
-                        <input type="search" name="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
                     </form>
                     <div id="searchresults-outer" class="searchresults-outer hidden">
                         <div id="searchresults-header" class="searchresults-header"></div>
@@ -178,17 +180,17 @@ Along the way, I've been learning a little bit more about myself.</p>
 <li><a href="https://pages.github.com/">Github Pages</a> to host the website for free.</li>
 <li><a href="https://www.cloudflare.com/">CloudFlare DNS</a> to redirect all http traffic to https.</li>
 </ul>
-<h1 id="programming"><a class="header" href="#programming">Programming</a></h1>
+<div id="chapter_begin" style="break-before: page; page-break-before: always;"></div><h1 id="programming"><a class="header" href="#programming">Programming</a></h1>
 <p>I'm working through <a href="https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949/">Elements of Programming Interviews</a>.</p>
 <p>I'm starting to see some patterns with problems, which is a good thing.</p>
 <p>I've been procrastinating for a few months now; I don't know how to motivate myself to do it.</p>
 <p>My github repo: <a href="https://github.com/lttviet/py">here</a></p>
-<h1 id="raspberry"><a class="header" href="#raspberry">Raspberry</a></h1>
+<div id="chapter_begin" style="break-before: page; page-break-before: always;"></div><h1 id="raspberry"><a class="header" href="#raspberry">Raspberry</a></h1>
 <h2 id="change-password-to-password"><a class="header" href="#change-password-to-password">Change password to password</a></h2>
 <p>Edit /etc/shadow on SD card, change the hashed password to</p>
 <pre><code>$1$salt$qJH7.N4xYta3aEG/dfqo/0
 </code></pre>
-<h1 id="bash"><a class="header" href="#bash">Bash</a></h1>
+<div id="chapter_begin" style="break-before: page; page-break-before: always;"></div><h1 id="bash"><a class="header" href="#bash">Bash</a></h1>
 <h2 id="special-characters-in-file-names"><a class="header" href="#special-characters-in-file-names">Special characters in file names</a></h2>
 <p><code>-</code> is recognized as stdin, so use <code>./-</code> for checking filenames beginning with <code>-</code>.</p>
 <p>Use <code>&quot;hello world&quot;</code> when names contain spaces.</p>
@@ -234,7 +236,7 @@ nc -l 1234
 # Client
 nc localhost 1234
 </code></pre>
-<h1 id="python"><a class="header" href="#python">Python</a></h1>
+<div id="chapter_begin" style="break-before: page; page-break-before: always;"></div><h1 id="python"><a class="header" href="#python">Python</a></h1>
 <h2 id="a-hrefhttpswikipythonorgmoinbitwiseoperatorsbitwisea"><a class="header" href="#a-hrefhttpswikipythonorgmoinbitwiseoperatorsbitwisea"><a href="https://wiki.python.org/moin/BitwiseOperators">Bitwise</a></a></h2>
 <p>Positive numbers have leading 0, negative numbers have leading 1.</p>
 <pre><code class="language-python"># TODO think about this, don't understand why atm
@@ -243,17 +245,17 @@ nc localhost 1234
 <h2 id="function"><a class="header" href="#function">Function</a></h2>
 <p>A function either returns something or mutate arguments.
 Probably put 'mutate' in docstring just in case.</p>
-<h1 id="react"><a class="header" href="#react">React</a></h1>
+<div id="chapter_begin" style="break-before: page; page-break-before: always;"></div><h1 id="react"><a class="header" href="#react">React</a></h1>
 <h2 id="npx-create-react-app-some-app"><a class="header" href="#npx-create-react-app-some-app"><code>npx create-react-app some-app</code></a></h2>
 <p>Ref: <a href="https://github.com/facebook/create-react-app/issues/9091">github bug</a></p>
 <p>I'm using Win 10 and the username has a space (V L).</p>
 <pre><code class="language-cmd">C:\Users&gt; dir /x    # got VL~1
 </code></pre>
 <p><code>npm config edit</code> and add <code>cache=C:\Users\VL~1\AppData\Roaming\npm-cache</code> to config file.</p>
-<h1 id="java"><a class="header" href="#java">Java</a></h1>
+<div id="chapter_begin" style="break-before: page; page-break-before: always;"></div><h1 id="java"><a class="header" href="#java">Java</a></h1>
 <h2 id="install-openjdk"><a class="header" href="#install-openjdk">Install OpenJDK</a></h2>
 <p>Use <a href="https://adoptopenjdk.net/">https://adoptopenjdk.net/</a> to install on Windows.</p>
-<h1 id="server"><a class="header" href="#server">Server</a></h1>
+<div id="chapter_begin" style="break-before: page; page-break-before: always;"></div><h1 id="server"><a class="header" href="#server">Server</a></h1>
 <p>I'm using <a href="https://docs.ansible.com/ansible/latest/user_guide/playbooks.html">Ansible playbook</a> to automate setting up vps.</p>
 <h2 id="todo"><a class="header" href="#todo">TODO</a></h2>
 <p>Add:</p>
@@ -262,9 +264,9 @@ Probably put 'mutate' in docstring just in case.</p>
 <li>wireguard</li>
 <li>pihole</li>
 </ul>
-<h1 id="projects"><a class="header" href="#projects">Projects</a></h1>
+<div id="chapter_begin" style="break-before: page; page-break-before: always;"></div><h1 id="projects"><a class="header" href="#projects">Projects</a></h1>
 <p>A few personal projects.</p>
-<h1 id="homepass"><a class="header" href="#homepass">Homepass</a></h1>
+<div id="chapter_begin" style="break-before: page; page-break-before: always;"></div><h1 id="homepass"><a class="header" href="#homepass">Homepass</a></h1>
 <h2 id="streetpass"><a class="header" href="#streetpass">StreetPass</a></h2>
 <p>3DS has a built-in feature <a href="http://www.nintendo.com/3ds/built-in-software/streetpass">StreetPass</a> which lets nearby users to exchange data from games and applications.
 This is great if you live in a big city where there are a lot of 3DS devices.
@@ -473,34 +475,48 @@ service hostapd start
 <div class="footnote-definition" id="2"><sup class="footnote-definition-label">2</sup>
 <p><a href="https://www.raspberrypi.org/documentation/configuration/wireless/wireless-cli.md">https://www.raspberrypi.org/documentation/configuration/wireless/wireless-cli.md</a></p>
 </div>
-<h1 id="games"><a class="header" href="#games">Games</a></h1>
+<div id="chapter_begin" style="break-before: page; page-break-before: always;"></div><h1 id="games"><a class="header" href="#games">Games</a></h1>
+<h2 id="hobby"><a class="header" href="#hobby">Hobby</a></h2>
 <p>Gaming is my hobby to pass the time.</p>
 <p>Those days I mostly play <a href="https://en.wikipedia.org/wiki/Gacha_game">mobile gatcha games</a> instead of pc games.
 I usually purchase monthly packages so I'm not a f2p player.
 I used to balk at the idea of paying monthly subscription to MMOs, but now I do it without blinking for mobile games.</p>
-<h1 id="playing"><a class="header" href="#playing">Playing</a></h1>
+<h2 id="1652021"><a class="header" href="#1652021">16/5/2021</a></h2>
+<p>I quitted Arknights because I couldn't get into the story.
+It's probably because of the translation as most of the conversations are long-winded and verbose.</p>
+<p>I've also cut back on Genshin Impact.
+I don't enjoy playing daily quests for 30 minutes then stop.
+Nowadays I started the game once every 2 weeks to play story and events.</p>
+<p>I no longer care about ranking events in Girls Frontline.
+Moreover, with the news of Girls Frontline 2 coming out in the next few years, I think the game will have an ending soon.</p>
+<p>I spent $8 in micro transactions this year as my interest dwindled.</p>
+<p>Looking back, I have had the feeling (gaming doesn't give me as much dopamine as before) for a long time now but it took a while for me to accept it.
+It's interesting that my youtube feed is full of streamers quitting (machine learning/ai at work?).
+They were of the similar age to mine so it made sense that we are in the same phase.</p>
+<p>It felt like the end of a long chapter in my life.
+Here's to a new chapter.</p>
+<div id="chapter_begin" style="break-before: page; page-break-before: always;"></div><h1 id="playing"><a class="header" href="#playing">Playing</a></h1>
 <h2 id="a-hrefhttpsenwikipediaorgwikigirls27_frontlinegirls-frontlinea"><a class="header" href="#a-hrefhttpsenwikipediaorgwikigirls27_frontlinegirls-frontlinea"><a href="https://en.wikipedia.org/wiki/Girls%27_Frontline">Girls' Frontline</a></a></h2>
 <p>Guns as anime girls. </p>
-<h3 id="july-31-2020"><a class="header" href="#july-31-2020">July 31 2020</a></h3>
+<h3 id="7312020"><a class="header" href="#7312020">7/31/2020</a></h3>
 <p>I finished the Isomer ranking map with 606k scores.
 It was good enough to get the exclusive fairy so I had no intention of retrying.</p>
 <p>It was a bad day for me mentally; I felt overwhelmed all day.
 I cried when I made a bunch of mistakes microing the game.
 I ate a whole box of ice cream for dinner.</p>
-<h3 id="december-21-2020"><a class="header" href="#december-21-2020">December 21 2020</a></h3>
+<h3 id="12212020"><a class="header" href="#12212020">12/21/2020</a></h3>
 <p>I procrastinated until the last day to do the Shattered Connexion ranking map.
 I got 631k, which was enough to get into top 30% for the beach fairy.</p>
-<h2 id="a-hrefhttpsenwikipediaorgwikiarknightsarknightsa"><a class="header" href="#a-hrefhttpsenwikipediaorgwikiarknightsarknightsa"><a href="https://en.wikipedia.org/wiki/Arknights">Arknights</a></a></h2>
-<p>Tower defense with anime girls and some males.</p>
+<h3 id="552021"><a class="header" href="#552021">5/5/2021</a></h3>
+<p>I won't participate in the ranking map for Polarized Light event.</p>
 <h2 id="a-hrefhttpsenwikipediaorgwikigenshin_impactgenshin-impacta"><a class="header" href="#a-hrefhttpsenwikipediaorgwikigenshin_impactgenshin-impacta"><a href="https://en.wikipedia.org/wiki/Genshin_Impact">Genshin Impact</a></a></h2>
-<p>My account rank is 54. 
-There's not much to do at endgame; I usually spend at most 1 hour everyday for daily quests.</p>
-<p>Events and new stories come at steady pace so the game still keeps me entertained.</p>
+<p>I sometimes open the game whenever a new story or event comes out.</p>
 <h2 id="a-hrefhttpsenwikipediaorgwikiprincess_connect_redivepriconnea"><a class="header" href="#a-hrefhttpsenwikipediaorgwikiprincess_connect_redivepriconnea"><a href="https://en.wikipedia.org/wiki/Princess_Connect!_Re:Dive">Priconne</a></a></h2>
 <p>This is just an auto-battle game with high production quality.
-I'm playing it casually and I don't expect to spend any money.
-I rerolled for Makoto but stopped when I got 2 3* instead.</p>
-<h1 id="finished"><a class="header" href="#finished">Finished</a></h1>
+I bought 1 month package so I'm no longer f2p.</p>
+<p>Usually I play for 20 minutes in the morning and another 20 minutes before bed.
+It's a low commitment game which respect my free times.</p>
+<div id="chapter_begin" style="break-before: page; page-break-before: always;"></div><h1 id="finished"><a class="header" href="#finished">Finished</a></h1>
 <h2 id="752020---a-hrefhttpsstoresteampoweredcomapp1113000persona_4_goldenpersona-4-goldena"><a class="header" href="#752020---a-hrefhttpsstoresteampoweredcomapp1113000persona_4_goldenpersona-4-goldena">7/5/2020 - <a href="https://store.steampowered.com/app/1113000/Persona_4_Golden/">Persona 4 Golden</a></a></h2>
 <p>I started playing Persona 4 back in 2008, but I lost my save so never finished it. 
 As the game came to PC, I decided to give it another try.</p>
@@ -534,30 +550,44 @@ It does feel like closing a chapter in my life.</p>
 <p>Playing the game in 2021, it feels outdated with floaty combat and multiple crashes and game stopping bugs.
 At some point, the game seems like a long to do list.
 But I did have a lot of fun role playing a mage, an assassin, dragonborn, a vampire, a werewolf and a thief in one single playthrough.</p>
-<h2 id="4122021---a-hrefhttpsstoresteampoweredcomapp1325200nioh_2__the_complete_editionnioh-2a"><a class="header" href="#4122021---a-hrefhttpsstoresteampoweredcomapp1325200nioh_2__the_complete_editionnioh-2a">4/12/2021 - <a href="https://store.steampowered.com/app/1325200/Nioh_2__The_Complete_Edition/">Nioh 2</a></a></h2>
+<h2 id="a-hrefhttpsstoresteampoweredcomapp1325200nioh_2__the_complete_editionnioh-2a"><a class="header" href="#a-hrefhttpsstoresteampoweredcomapp1325200nioh_2__the_complete_editionnioh-2a"><a href="https://store.steampowered.com/app/1325200/Nioh_2__The_Complete_Edition/">Nioh 2</a></a></h2>
+<h3 id="4122021---finished-main-campaign"><a class="header" href="#4122021---finished-main-campaign">4/12/2021 - Finished main campaign</a></h3>
 <p>It took me a couple of restarts before I finally settled on dual swords as my main weapons.
 I usually stay on high stance, using Cherry Blossom and Windstorm skills.
 Sometimes I switched to mid stance and used God of Wind kick to deplete ki.</p>
 <p>The beginning of the game is a bit rough but I got a lot better as I keep playing.
 The few final bosses did feel easy; I'm not entirely sure if it was because of good equipments or my skills.</p>
-<p>I completed the first difficulty and haven't started dlc or end game yet.
-I think I'll slowly tacking those modes but for now it's considered finished to me.</p>
-<h1 id="books"><a class="header" href="#books">Books</a></h1>
+<h3 id="4232021---dlcs"><a class="header" href="#4232021---dlcs">4/23/2021 - DLCs</a></h3>
+<p>I completed the DLCs with glaive and magic build.
+Similar to dual swords, I mostly stay on high stance and use Empty Retribution and Cyclone.</p>
+<p>Currently I'm on Way of Wisdom difficulty.</p>
+<h3 id="582021---underworld"><a class="header" href="#582021---underworld">5/8/2021 - Underworld</a></h3>
+<p>Done 108 floors and first 5 floors of the depth with 7 Izanagi and 5 Susano.
+The build wasn't optimized but it still got me to the depth.
+When I tried floor 6, I couldn't do enough damages and the boss can kill me in 2 hits.
+Since I was not at max level and my equipments were around +80, I planned to spend some time farming.
+Google searches said that from floor 6, the depth tends to drop the same graces that I was wearing so hopefully it wouldn't take long to farm.</p>
+<h3 id="5102021---depth"><a class="header" href="#5102021---depth">5/10/2021 - Depth</a></h3>
+<p>I switched to 7 Izanagi and 5 Oyamatsumi set to be more tanky.
+Moreover, I got a scroll with ultimate magic and realized that I hadn't activated any mystic art with magic.
+After doing so, applying buffs took less time and the game felt faster and easier.</p>
+<div id="chapter_begin" style="break-before: page; page-break-before: always;"></div><h1 id="books"><a class="header" href="#books">Books</a></h1>
 <h2 id="reading"><a class="header" href="#reading">Reading</a></h2>
 <ul>
-<li><a href="https://www.webnovel.com/book/7996858406002505/Reverend-Insanity">Reverend Insanity</a>: evil MC, cultivation story.</li>
 <li><a href="https://www.webnovel.com/book/11022733006234505/Lord-of-the-Mysteries">Lord of the Mysteries</a>: steampunk setting, cool story. The first 100 chapters are tedious, but it keeps getting better after that.</li>
 <li><a href="https://www.novelupdates.com/series/tearmoon-empire-story/">Tearmoon Empire</a>: finished second book. Fun light-hearted story; misunderstanding - the story.</li>
 <li><a href="https://www.novelupdates.com/series/i-reincarnated-into-an-otome-game-as-a-villainess-with-only-destruction-flags/">Bakarina</a>: reading volume 3. It's not as good as the first 2 books.</li>
+<li><a href="https://www.amazon.com/Decisive-Make-Better-Choices-Life-ebook">Decisive</a>: how to make slightly better choices.</li>
 </ul>
 <h2 id="finished-1"><a class="header" href="#finished-1">Finished</a></h2>
 <h3 id="a-hrefhttpswwwnovelupdatescomserieskumo-desu-ga-nani-kakumoa"><a class="header" href="#a-hrefhttpswwwnovelupdatescomserieskumo-desu-ga-nani-kakumoa"><a href="https://www.novelupdates.com/series/kumo-desu-ga-nani-ka/">Kumo</a></a></h3>
-<p>Book 7, I don't really like robots.</p>
-<p>Book 8, angry ogre, smash.</p>
-<p>Book 9, a plot reveal kinda see it coming.</p>
+<p>Book 12.</p>
 <h3 id="a-hrefhttpswwwamazoncomnihilism-mit-press-essential-knowledgedp0262537176nihilisma"><a class="header" href="#a-hrefhttpswwwamazoncomnihilism-mit-press-essential-knowledgedp0262537176nihilisma"><a href="https://www.amazon.com/Nihilism-MIT-Press-Essential-Knowledge/dp/0262537176">Nihilism</a></a></h3>
 <p>An introduction to nihilism which explains how modern society popularize and spread nihilism.</p>
-<h1 id="watching"><a class="header" href="#watching">Watching</a></h1>
+<h3 id="a-hrefhttpswwwwebnovelcombook7996858406002505reverend-insanityreverend-insanitya"><a class="header" href="#a-hrefhttpswwwwebnovelcombook7996858406002505reverend-insanityreverend-insanitya"><a href="https://www.webnovel.com/book/7996858406002505/Reverend-Insanity">Reverend Insanity</a></a></h3>
+<p>The story ended in a cliffhanger as the the book is banned in China.
+It was a fun and easy read.</p>
+<div id="chapter_begin" style="break-before: page; page-break-before: always;"></div><h1 id="watching"><a class="header" href="#watching">Watching</a></h1>
 <p>I'm watching:</p>
 <ol>
 <li><a href="https://www.imdb.com/title/tt8416494/">Doom Patrol</a> season 2.</li>
@@ -581,9 +611,15 @@ I understand their motives but that certainly doesn't make me like them any more
 But the cat is already out of the bag so it'll never be the same again.
 Maybe to move forward, you need to step back and think.
 The truth is you can never go back to square 1, time passes, things change.</p>
-<h3 id="godzilla-2014"><a class="header" href="#godzilla-2014">Godzilla 2014</a></h3>
+<h3 id="a-hrefhttpsenwikipediaorgwikigodzilla_2014_filmgodzilla-2014a"><a class="header" href="#a-hrefhttpsenwikipediaorgwikigodzilla_2014_filmgodzilla-2014a"><a href="https://en.wikipedia.org/wiki/Godzilla_(2014_film)">Godzilla 2014</a></a></h3>
 <p>It's ok. The monster fight is at night and the screen is too dark for me to see.</p>
-<h1 id="trading"><a class="header" href="#trading">Trading</a></h1>
+<h3 id="a-hrefhttpsenwikipediaorgwikitaskmaster_tv_seriestaskmastera"><a class="header" href="#a-hrefhttpsenwikipediaorgwikitaskmaster_tv_seriestaskmastera"><a href="https://en.wikipedia.org/wiki/Taskmaster_(TV_series)">Taskmaster</a></a></h3>
+<p>I was an avid watcher of the show, then life happened and I forgot about it.
+One day I had a random thought to check out how the tv show was doing.
+It's still going strong and series 11 is broadcasting at the moment.</p>
+<p>15/4/2021 I finished the series 10.
+Despite recording during covid, the show still has its charm.</p>
+<div id="chapter_begin" style="break-before: page; page-break-before: always;"></div><h1 id="trading"><a class="header" href="#trading">Trading</a></h1>
 <p>This isn't investment, it's pure speculation at best and gambling at worst.</p>
 <h2 id="why"><a class="header" href="#why">Why</a></h2>
 <p>I feel alive testing my hypotheses, regardless of wins or losses.</p>
@@ -622,11 +658,6 @@ It cost me half of the profit to buy back the calls.</p>
 <p>First time I've ever heard and invested into <a href="https://www.investopedia.com/terms/s/spac.asp">SPAC</a>.
 <a href="https://en.wikipedia.org/wiki/Bill_Ackman">Bill Ackman</a> is behind this so it has a lot of hype going.</p>
 <p>Plan: wait.</p>
-<h3 id="speculative-spacs"><a class="header" href="#speculative-spacs">Speculative SPACs</a></h3>
-<p>I usually buy near NAV (at most 10% above NAV) and start taking profit after 10% raise.
-I don't plan to hold after merger as <a href="https://corpgov.law.harvard.edu/2020/11/19/a-sober-look-at-spacs/">historical data</a> suggest most companies' stocks fall after ticket change.</p>
-<p>I'm in the process of moving my money into SPCX, an actively managed ETF with similar strategy as mine.
-The expense ratio is high (0.95%), but if the ETF has access to buy SPACs at IPO price then it's probably worth it.</p>
 <h2 id="random-thoughts"><a class="header" href="#random-thoughts">Random thoughts</a></h2>
 <h3 id="robinhood"><a class="header" href="#robinhood">Robinhood</a></h3>
 <p>I watched an <a href="https://www.youtube.com/watch?v=4RS4JIEVyXM">interview</a> about the increase in collateral for GME.
@@ -636,18 +667,17 @@ Their <a href="https://blog.robinhood.com/news/2021/1/29/what-happened-this-week
 <p>Their PR was bad, making their customers believe that they conspired with Citadel to protect hedge funds.
 But I think they'll survive and thrive despite that.</p>
 <h2 id="retirement"><a class="header" href="#retirement">Retirement</a></h2>
-<p>My portfolio allocation is currently 50% SPY + VTI, 20% VEU, 20% TLT + BND and 10% cash + fun plays.</p>
+<p>My portfolio allocation is 50% SPY + VTI, 20% VEU, 20% TLT + BND and 10% cash + fun plays.</p>
 <p>During March 2020, I sold a bunch of VTI and bought SPY to take advantage of <a href="https://www.bogleheads.org/wiki/Tax_loss_harvesting">tax-loss harvesting</a>.
 At the time, I didn't know about about SCHB or ITOT and the performance difference between total market index and S&amp;P 500 is small so I decided to buy SPY.
-I also considered VOO but I wanted to sell covered call so SPY was more liquid.
-In the end, I didn't sell any call against SPY.</p>
+I also considered VOO but I wanted to sell covered call so SPY was more liquid.</p>
 <p>Hopefully at some point in the future, I can sell SPY and buy back into VTI to simplify my allocation.</p>
 <p>Similarly I was holding VXUS and moved to VEU.
 Since VXUS has small cap companies, I also want to move back to it.</p>
 <p>As for bonds, I think I was too conservative so I plan to sell TLT and reduce my overall holdings.
-Holding BND only is good enough for me; TLT is a little too volatile and it has been going down lately due to rising yield.</p>
+Holding only BND is good enough for me; TLT is a little too volatile and it has been going down lately due to rising yield and inflation.</p>
 <p>My planned portfolio is 55% VTI, 25% VXUS, 15% BND, 5% cash + fun play.</p>
-<h1 id="mind"><a class="header" href="#mind">Mind</a></h1>
+<div id="chapter_begin" style="break-before: page; page-break-before: always;"></div><h1 id="mind"><a class="header" href="#mind">Mind</a></h1>
 <p>I'm in a better place mentally and physically.
 There have been a lot of ups and downs and it'll be the same going forward.</p>
 <p>I'm starting to use Google Sheets as a journal to keep track of my actions and feeling throughout the day.
