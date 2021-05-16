@@ -31,6 +31,15 @@ But the cat is already out of the bag so it'll never be the same again.
 Maybe to move forward, you need to step back and think.
 The truth is you can never go back to square 1, time passes, things change.
 
-### Godzilla 2014
+### [Godzilla 2014](https://en.wikipedia.org/wiki/Godzilla_(2014_film))
 
 It's ok. The monster fight is at night and the screen is too dark for me to see.
+
+### [Taskmaster](https://en.wikipedia.org/wiki/Taskmaster_(TV_series))
+
+I was an avid watcher of the show, then life happened and I forgot about it.
+One day I had a random thought to check out how the tv show was doing.
+It's still going strong and series 11 is broadcasting at the moment.
+
+15/4/2021 I finished the series 10.
+Despite recording during covid, the show still has its charm.

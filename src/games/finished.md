@@ -50,7 +50,9 @@ Playing the game in 2021, it feels outdated with floaty combat and multiple cras
 At some point, the game seems like a long to do list.
 But I did have a lot of fun role playing a mage, an assassin, dragonborn, a vampire, a werewolf and a thief in one single playthrough.
 
-## 4/12/2021 - [Nioh 2](https://store.steampowered.com/app/1325200/Nioh_2__The_Complete_Edition/)
+## [Nioh 2](https://store.steampowered.com/app/1325200/Nioh_2__The_Complete_Edition/)
+
+### 4/12/2021 - Finished main campaign
 
 It took me a couple of restarts before I finally settled on dual swords as my main weapons.
 I usually stay on high stance, using Cherry Blossom and Windstorm skills.
@@ -59,5 +61,23 @@ Sometimes I switched to mid stance and used God of Wind kick to deplete ki.
 The beginning of the game is a bit rough but I got a lot better as I keep playing.
 The few final bosses did feel easy; I'm not entirely sure if it was because of good equipments or my skills.
 
-I completed the first difficulty and haven't started dlc or end game yet.
-I think I'll slowly tacking those modes but for now it's considered finished to me.
+### 4/23/2021 - DLCs
+
+I completed the DLCs with glaive and magic build.
+Similar to dual swords, I mostly stay on high stance and use Empty Retribution and Cyclone.
+
+Currently I'm on Way of Wisdom difficulty.
+
+### 5/8/2021 - Underworld
+
+Done 108 floors and first 5 floors of the depth with 7 Izanagi and 5 Susano.
+The build wasn't optimized but it still got me to the depth.
+When I tried floor 6, I couldn't do enough damages and the boss can kill me in 2 hits.
+Since I was not at max level and my equipments were around +80, I planned to spend some time farming.
+Google searches said that from floor 6, the depth tends to drop the same graces that I was wearing so hopefully it wouldn't take long to farm.
+
+### 5/10/2021 - Depth
+
+I switched to 7 Izanagi and 5 Oyamatsumi set to be more tanky.
+Moreover, I got a scroll with ultimate magic and realized that I hadn't activated any mystic art with magic.
+After doing so, applying buffs took less time and the game felt faster and easier.

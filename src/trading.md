@@ -55,14 +55,6 @@ First time I've ever heard and invested into [SPAC](https://www.investopedia.com
 
 Plan: wait.
 
-### Speculative SPACs
-
-I usually buy near NAV (at most 10% above NAV) and start taking profit after 10% raise.
-I don't plan to hold after merger as [historical data](https://corpgov.law.harvard.edu/2020/11/19/a-sober-look-at-spacs/) suggest most companies' stocks fall after ticket change.
-
-I'm in the process of moving my money into SPCX, an actively managed ETF with similar strategy as mine.
-The expense ratio is high (0.95%), but if the ETF has access to buy SPACs at IPO price then it's probably worth it.
-
 ## Random thoughts
 
 ### Robinhood
@@ -77,12 +69,11 @@ But I think they'll survive and thrive despite that.
 
 ## Retirement
 
-My portfolio allocation is currently 50% SPY + VTI, 20% VEU, 20% TLT + BND and 10% cash + fun plays.
+My portfolio allocation is 50% SPY + VTI, 20% VEU, 20% TLT + BND and 10% cash + fun plays.
 
 During March 2020, I sold a bunch of VTI and bought SPY to take advantage of [tax-loss harvesting](https://www.bogleheads.org/wiki/Tax_loss_harvesting).
 At the time, I didn't know about about SCHB or ITOT and the performance difference between total market index and S&P 500 is small so I decided to buy SPY.
 I also considered VOO but I wanted to sell covered call so SPY was more liquid.
-In the end, I didn't sell any call against SPY.
 
 Hopefully at some point in the future, I can sell SPY and buy back into VTI to simplify my allocation.
 
@@ -90,6 +81,6 @@ Similarly I was holding VXUS and moved to VEU.
 Since VXUS has small cap companies, I also want to move back to it.
 
 As for bonds, I think I was too conservative so I plan to sell TLT and reduce my overall holdings.
-Holding BND only is good enough for me; TLT is a little too volatile and it has been going down lately due to rising yield.
+Holding only BND is good enough for me; TLT is a little too volatile and it has been going down lately due to rising yield and inflation.
 
 My planned portfolio is 55% VTI, 25% VXUS, 15% BND, 5% cash + fun play.
