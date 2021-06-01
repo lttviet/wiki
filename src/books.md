@@ -21,3 +21,11 @@ An introduction to nihilism which explains how modern society popularize and spr
 
 The story ended in a cliffhanger as the the book is banned in China.
 It was a fun and easy read.
+
+### [Chainsaw Man](https://en.wikipedia.org/wiki/Chainsaw_Man)
+
+It was pretty fun manga from the same artist as Fire Punch.
+It is shorter and more concise than his previous work.
+I didn't feel like the manga overstayed its welcome.
+
+I don't exactly like the idea that eating devils make them forgotten though.

@@ -81,3 +81,8 @@ Google searches said that from floor 6, the depth tends to drop the same graces 
 I switched to 7 Izanagi and 5 Oyamatsumi set to be more tanky.
 Moreover, I got a scroll with ultimate magic and realized that I hadn't activated any mystic art with magic.
 After doing so, applying buffs took less time and the game felt faster and easier.
+
+### 5/16/2021 - Depth 25
+
+I got a few better drops and changed my set to 7 Izanagi and 6 Oyamatsumi.
+I've done floor 25 of the depth and I'm happy to stop playing at this point.
