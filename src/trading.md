@@ -53,7 +53,7 @@ It cost me half of the profit to buy back the calls.
 First time I've ever heard and invested into [SPAC](https://www.investopedia.com/terms/s/spac.asp).
 [Bill Ackman](https://en.wikipedia.org/wiki/Bill_Ackman) is behind this so it has a lot of hype going.
 
-Plan: wait.
+My paper loss is currently 10%, I'm planning to buy more shares to reduce my average basis.
 
 ## Random thoughts
 

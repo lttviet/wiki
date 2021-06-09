@@ -8,7 +8,7 @@ Those days I mostly play [mobile gatcha games](https://en.wikipedia.org/wiki/Gac
 I usually purchase monthly packages so I'm not a f2p player.
 I used to balk at the idea of paying monthly subscription to MMOs, but now I do it without blinking for mobile games.
 
-## 16/5/2021
+## 5/16/2021
 
 I quitted Arknights because I couldn't get into the story.
 It's probably because of the translation as most of the conversations are long-winded and verbose.
@@ -26,5 +26,7 @@ Looking back, I have had the feeling (gaming doesn't give me as much dopamine as
 It's interesting that my youtube feed is full of streamers quitting (machine learning/ai at work?).
 They were of the similar age to mine so it made sense that we are in the same phase.
 
-It felt like the end of a long chapter in my life.
-Here's to a new chapter.
+## 6/8/2021
+
+I quit Girls' Frontline as daily login feels like a chore and I no longer enjoy playing the game.
+This isn't a spontaneous decision, I have ruminated the idea for a while now.
